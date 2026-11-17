@@ -1,10 +1,10 @@
 
 # Olá! Sou Lhuan Matheus 👋
 
-🎓 Estudante de Engenharia de Software na UFMS  
-🤖 Entusiasta de Inteligência Artificial, agentes e automação  
-💡 Interessado em transformar tecnologia em soluções práticas para problemas reais  
-📍 Campo Grande, MS — Brasil
+ Estudante de Engenharia de Software na UFMS  
+ Entusiasta de Inteligência Artificial, agentes e automação  
+ Interessado em transformar tecnologia em soluções práticas para problemas reais  
+ Campo Grande, MS — Brasil
 
 ## Sobre mim
 
